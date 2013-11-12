@@ -1,1 +1,3 @@
 Respuestas a las preguntas
+
+22. Descargarse una copia completa del repositorio a nuestro equipo.
