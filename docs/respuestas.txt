@@ -2,4 +2,5 @@ Respuestas a las preguntas
 
 22. Descargarse una copia completa del repositorio a nuestro equipo.
 27. Una rama es una copia independiente del estado actual del proyecto, desde la cual realizamos unos cambios o añadimos nuevas funcionalidades, los cuales una vez finalizados podemos mezclar con la rama principal nuevamente
+39. Fast forward siginifica avance rápido y se llama así debido a que todo los cambios realizados en la otra rama son nuevos con respecto a la version actual de la rama máster, por lo que sólamente se debe hacer que el punteror master apunte a la misma posición que el del otro branch
 
